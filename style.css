@@ -7,6 +7,16 @@
     overflow-y: auto;
 }
 
+body {
+    background-color: #f2f2f7;
+}
+div {
+    width: 375px;
+    margin: 50px auto;
+    display: block;
+    border-radius: 6px;
+}
+
 h1 {
     font-style: normal;
     font-weight: 500;
